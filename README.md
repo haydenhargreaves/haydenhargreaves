@@ -21,7 +21,7 @@
 **Tools of the Trade:** NixOS, Linux, Neovim, Git, ssh, Docker
 
 ## Current Projects 
-- **[ERAU IoT Web](https://github.com/Azpect3120/InternetOfThings)**: Working with [Professor Seth McNeil](https://github.com/semcneil) to create an Internet of Things web all across the [Embry-Riddle](https://erau.edu) Prescott Campus
+- **[ERAU IoT Web](https://github.com/Azpect3120/InternetOfThings)**: Working with [Professor Seth McNeil](https://github.com/semcneil) to create an Internet of Things web all across the [Embry-Riddle](https://erau.edu) Prescott Campus.
 - **[Stock Trading Bot](https://github.com/Azpect3120/TradingBot)**: A bot that can find strong stocks to trade.
 
 ## Project Ideas
