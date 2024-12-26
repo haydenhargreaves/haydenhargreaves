@@ -7,9 +7,6 @@
 
 <br>
 
-[![Azpect3120's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azpect3120)](https://github.com/anuraghazra/github-readme-stats)
-
-
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 > 
 > "An idiot admires complexity, a genius admires simplicity." - Terry A. Davis
