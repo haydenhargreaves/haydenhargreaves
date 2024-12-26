@@ -20,14 +20,18 @@
 
 **Tools of the Trade:** NixOS, Linux, Neovim, Git, ssh, Docker
 
+
 ## Current Projects 
 - **[ERAU IoT Web](https://github.com/Azpect3120/InternetOfThings)**: Working with [Professor Seth McNeil](https://github.com/semcneil) to create an Internet of Things web all across the [Embry-Riddle](https://erau.edu) Prescott Campus.
 - **[Stock Trading Bot](https://github.com/Azpect3120/TradingBot)**: A bot that can find strong stocks to trade.
+
 
 ## Project Ideas
 - **Home Server Web Dashboard:** A dashboard to create, manage, and view web services on my home server.
 - **Home Server Email Report:** Generate a report and send it to the owner of the home server containing status and other useful information.
 
+
+## Github Stats
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
