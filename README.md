@@ -3,9 +3,9 @@
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 ## 🧰 My Toolbox
-🖋️ **Languages:** [Languages you know]  
-📚 **Libraries I Love:** [Your top frameworks/libraries]  
-💻 **Tools of the Trade:** `NixOS` `Linux` `Neovim`
+🖋️ **Languages:** `Go` `Lua` `Python` `Java` `C/C++` `Zig` `Typescript` `SQL` `HTML` `CSS` 
+📚 **Libraries I Love:** `Gin` `Tailwind CSS` `Spring Boot` `HTMX`
+💻 **Tools of the Trade:** `NixOS` `Linux` `Neovim` `Git` `zsh` `ssh` `Docker`
 
 ## 🔧 Projects Under the Hood
 - **[Project Name](link-to-repo)**: [Brief, fun description]
