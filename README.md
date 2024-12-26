@@ -3,11 +3,9 @@
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 ## Skills
-- **Languages:**
-  - Go, Lua, Python, Java, Zig, Typescript, SQL, HTML, CSS 
+**Languages:** Go, Lua, Python, Java, Zig, Typescript, SQL, HTML, CSS 
 
-- **Libraries:**
-  - HTMX, Gin, Tailwind CSS, Spring Boot
+**Libraries:** HTMX, Gin, Tailwind CSS, Spring Boot
 
 💻 **Tools of the Trade:** `NixOS` `Linux` `Neovim` `Git` `zsh` `ssh` `Docker`
 
