@@ -21,8 +21,8 @@
 **Tools of the Trade:** NixOS, Linux, Neovim, Git, ssh, Docker
 
 ## Current Projects 
-- **[ERAU IoT Web](https://github.com/Azpect3120/InternetOfThings)**: [Working with Professor Seth McNeil to create an Internet of Things web all across the Embry-Riddle Prescott Campus]
-- **[Second Project Name](link-to-repo)**: [Brief, fun description]
+- **[ERAU IoT Web](https://github.com/Azpect3120/InternetOfThings)**: Working with Professor Seth McNeil to create an Internet of Things web all across the Embry-Riddle Prescott Campus
+- **[Second Project Name](link-to-repo)**: Brief, fun description
 
 ## Project Ideas
 - [Idea Name]: [Brief description or potential impact]
