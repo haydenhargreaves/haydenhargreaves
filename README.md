@@ -30,22 +30,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 732 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 41 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -84,25 +68,6 @@ Config                   2 mins              ███████████�
 💻 Operating System: 
 Linux                    2 mins              █████████████████████████   100.00 % 
 ```
-
-**I Mostly Code in Go** 
-
-```text
-Go                       7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
-Lua                      5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Zig                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-OCaml                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Azpect3120/Azpect3120/master/assets/bar_graph.png)
-
-
- Last Updated on 26/12/2024 17:38:20 UTC
 <!--END_SECTION:waka-->
 
 
