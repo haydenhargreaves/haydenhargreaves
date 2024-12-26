@@ -1,5 +1,7 @@
 # Hey there, I'm Hayden Hargreaves! 🤓
 
+<br>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Azpect3120&theme=rose-pine&mode=weekly)](https://git.io/streak-stats)
 
 
@@ -7,7 +9,6 @@
 > 
 > "An idiot admires complexity, a genius admires simplicity." - Terry A. Davis
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## Skills
 **Languages:** Go, Lua, Python, Java, Zig, Typescript, SQL, HTML, CSS 
