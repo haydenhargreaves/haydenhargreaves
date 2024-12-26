@@ -4,16 +4,7 @@
 
 ## Skills
 - 🖋️ **Languages:**
-  - `Go`
-  - `Lua`
-  - `Python`
-  - `Java`
-  - `C/C++`
-  - `Zig`
-  - `Typescript`
-  - `SQL`
-  - `HTML`
-  - `CSS` 
+  - Go, Lua, Python, Java, Zig, Typescript, SQL, HTML, CSS 
 
 📚 **Libraries I Love:** `Gin` `Tailwind CSS` `Spring Boot` `HTMX`
 
