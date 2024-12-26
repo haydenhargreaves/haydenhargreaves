@@ -1,4 +1,7 @@
 # Hey there, I'm Hayden Hargreaves! 🤓
+[![X: azpect_3120](https://img.shields.io/twitter/follow/azpect_3120?style=social)](https://x.com/azpect_3120)
+[![Linkedin: Hayden Hargreaves](https://img.shields.io/badge/-Hayden%20Hargreaves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hayden-hargreaves-37b2802a4/)](https://www.linkedin.com/in/hayden-hargreaves-37b2802a4/)
+[![GitHub Azpect3120](https://img.shields.io/github/followers/azpect3120?label=follow&style=social)](https://github.com/azpect3120)
 
 <br>
 
@@ -25,9 +28,3 @@
 ## 🧠 Sparkling Ideas
 - [Idea Name]: [Brief description or potential impact]
 - [Idea Name]: [Brief description or potential impact]
-
-
-## 🌐 Connect with Me
-[![X: azpect_3120](https://img.shields.io/twitter/follow/azpect_3120?style=social)](https://x.com/azpect_3120)
-[![Linkedin: Hayden Hargreaves](https://img.shields.io/badge/-Hayden%20Hargreaves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hayden-hargreaves-37b2802a4/)](https://www.linkedin.com/in/hayden-hargreaves-37b2802a4/)
-[![GitHub Azpect3120](https://img.shields.io/github/followers/azpect3120?label=follow&style=social)](https://github.com/azpect3120)
