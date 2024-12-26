@@ -22,7 +22,7 @@
 
 ## Current Projects 
 - **[ERAU IoT Web](https://github.com/Azpect3120/InternetOfThings)**: Working with [Professor Seth McNeil](https://github.com/semcneil) to create an Internet of Things web all across the [Embry-Riddle](https://erau.edu) Prescott Campus
-- **[Second Project Name](link-to-repo)**: Brief, fun description
+- **[Stock Trading Bot](https://github.com/Azpect3120/TradingBot)**: A bot that can find strong stocks to trade.
 
 ## Project Ideas
 - [Idea Name]: [Brief description or potential impact]
