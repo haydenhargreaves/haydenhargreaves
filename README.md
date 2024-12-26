@@ -7,6 +7,8 @@
 > 
 > "An idiot admires complexity, a genius admires simplicity." - Terry A. Davis
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ## Skills
 **Languages:** Go, Lua, Python, Java, Zig, Typescript, SQL, HTML, CSS 
 
