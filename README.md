@@ -4,7 +4,9 @@
 
 ## 🧰 My Toolbox
 🖋️ **Languages:** `Go` `Lua` `Python` `Java` `C/C++` `Zig` `Typescript` `SQL` `HTML` `CSS` 
+
 📚 **Libraries I Love:** `Gin` `Tailwind CSS` `Spring Boot` `HTMX`
+
 💻 **Tools of the Trade:** `NixOS` `Linux` `Neovim` `Git` `zsh` `ssh` `Docker`
 
 ## 🔧 Projects Under the Hood
