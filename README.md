@@ -1,5 +1,7 @@
 ![Hayden Hargreaves](https://github.com/Azpect3120/Azpect3120/blob/master/download.png?raw=true)
 
+<hr>
+
 [![X: azpect_3120](https://img.shields.io/twitter/follow/azpect_3120?style=social)](https://x.com/azpect_3120)
 [![Linkedin: Hayden Hargreaves](https://img.shields.io/badge/-Hayden%20Hargreaves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hayden-hargreaves-37b2802a4/)](https://www.linkedin.com/in/hayden-hargreaves-37b2802a4/)
 [![GitHub Azpect3120](https://img.shields.io/github/followers/azpect3120?label=follow&style=social)](https://github.com/azpect3120)
@@ -34,44 +36,4 @@
 ## Github Stats
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                433 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-🌆 Daytime                1667 commits        ████████████░░░░░░░░░░░░░   47.55 % 
-🌃 Evening                1344 commits        ██████████░░░░░░░░░░░░░░░   38.33 % 
-🌙 Night                  62 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   838 commits         ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
-Tuesday                  407 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Wednesday                558 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Thursday                 593 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-Friday                   559 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Saturday                 140 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-Sunday                   411 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Phoenix
-
-💬 Programming Languages: 
-Nix                      2 mins              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Neovim                   2 mins              █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Config                   2 mins              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    2 mins              █████████████████████████   100.00 % 
-```
 <!--END_SECTION:waka-->
-
-
