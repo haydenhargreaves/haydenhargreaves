@@ -1,21 +1,26 @@
-### Hi there 👋
+# Hey there, I'm Hayden Hargreaves! 🤓
 
-### Neovim > vsc*de
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
-I really like GoLang and Neovim.
+## 🧰 My Toolbox
+🖋️ **Languages:** [Languages you know]  
+📚 **Libraries I Love:** [Your top frameworks/libraries]  
+💻 **Tools of the Trade:** [Your favorite tools/platforms]
 
+## 🔧 Projects Under the Hood
+- **[Project Name](link-to-repo)**: [Brief, fun description]
+- **[Second Project Name](link-to-repo)**: [Brief, fun description]
 
-<!--
-**Azpect3120/Azpect3120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 Sparkling Ideas
+- [Idea Name]: [Brief description or potential impact]
+- [Idea Name]: [Brief description or potential impact]
 
-Here are some ideas to get you started:
+## 🐉 Did You Know?
+I once tried to build a parser for markdown to HTML, even though a node package exists!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with Me
+[![X: azpect_3120](https://img.shields.io/twitter/follow/azpect_3120?style=social)](https://x.com/azpect_3120)
+
+[![Linkedin: Hayden Hargreaves](https://img.shields.io/badge/-HaydenHargreaves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hayden-hargreaves-37b2802a4/)](https://www.linkedin.com/in/hayden-hargreaves-37b2802a4/)
+
+[![GitHub Azpect3120](https://img.shields.io/github/followers/azpect3120?label=follow&style=social)](https://github.com/azpect3120)
