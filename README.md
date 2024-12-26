@@ -1,6 +1,5 @@
 # Hey there, I'm Hayden Hargreaves! 🤓
 
-<br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Azpect3120&theme=rose-pine&mode=weekly)](https://git.io/streak-stats)
 
 
