@@ -25,8 +25,8 @@
 - **[Stock Trading Bot](https://github.com/Azpect3120/TradingBot)**: A bot that can find strong stocks to trade.
 
 ## Project Ideas
-- [Idea Name]: [Brief description or potential impact]
-- [Idea Name]: [Brief description or potential impact]
+- **Home Server Web Dashboard:** A dashboard to create, manage, and view web services on my home server.
+- **Home Server Email Report:** Generate a report and send it to the owner of the home server containing status and other useful information.
 
 
 <!--START_SECTION:waka-->
