@@ -19,8 +19,7 @@
 - [Idea Name]: [Brief description or potential impact]
 - [Idea Name]: [Brief description or potential impact]
 
-## 🐉 Did You Know?
-I once tried to build a parser for markdown to HTML, even though a node package exists!
+[![GitHub Streak](https://streak-stats.demolab.com?user=Azpect3120&theme=rose-pine&mode=weekly)](https://git.io/streak-stats)
 
 ## 🌐 Connect with Me
 [![X: azpect_3120](https://img.shields.io/twitter/follow/azpect_3120?style=social)](https://x.com/azpect_3120)
