@@ -2,8 +2,18 @@
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
-## 🧰 My Toolbox
-🖋️ **Languages:** `Go` `Lua` `Python` `Java` `C/C++` `Zig` `Typescript` `SQL` `HTML` `CSS` 
+## Skills
+- 🖋️ **Languages:**
+  - `Go`
+  - `Lua`
+  - `Python`
+  - `Java`
+  - `C/C++`
+  - `Zig`
+  - `Typescript`
+  - `SQL`
+  - `HTML`
+  - `CSS` 
 
 📚 **Libraries I Love:** `Gin` `Tailwind CSS` `Spring Boot` `HTMX`
 
