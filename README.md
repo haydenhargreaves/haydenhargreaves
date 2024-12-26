@@ -6,7 +6,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Azpec3120&theme=nord)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Azpect3120&theme=rose-pine&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Azpect3120&theme=rose-pine)](https://git.io/streak-stats)
 
 <br>
 
