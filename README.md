@@ -4,7 +4,7 @@
 [![GitHub Azpect3120](https://img.shields.io/github/followers/azpect3120?label=follow&style=social)](https://github.com/azpect3120)
 [![Waka Readme](https://github.com/Azpect3120/Azpect3120/actions/workflows/main.yml/badge.svg)](https://github.com/Azpect3120/Azpect3120/actions/workflows/main.yml)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Azpect3120&theme=rose-pine&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Azpec3120&theme=nord)](https://git.io/streak-stats)
 
 <br>
 
