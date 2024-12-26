@@ -1,6 +1,7 @@
 # Hey there, I'm Hayden Hargreaves! 🤓
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
+> 
 > "An idiot admires complexity, a genius admires simplicity." - Terry A. Davis
 
 ## Skills
