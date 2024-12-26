@@ -5,7 +5,7 @@
 ## 🧰 My Toolbox
 🖋️ **Languages:** [Languages you know]  
 📚 **Libraries I Love:** [Your top frameworks/libraries]  
-💻 **Tools of the Trade:** [Your favorite tools/platforms]
+💻 **Tools of the Trade:** `NixOS`, `Linux`, `Neovim`
 
 ## 🔧 Projects Under the Hood
 - **[Project Name](link-to-repo)**: [Brief, fun description]
