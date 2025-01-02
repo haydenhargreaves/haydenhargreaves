@@ -37,15 +37,13 @@
 ## Github Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -118,5 +116,5 @@ OCaml                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Azpect3120/Azpect3120/master/assets/bar_graph.png)
 
 
- Last Updated on 01/01/2025 01:23:39 UTC
+ Last Updated on 02/01/2025 01:17:12 UTC
 <!--END_SECTION:waka-->
