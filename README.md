@@ -6,8 +6,6 @@
 [![Linkedin: Hayden Hargreaves](https://img.shields.io/badge/-Hayden%20Hargreaves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hayden-hargreaves-37b2802a4/)](https://www.linkedin.com/in/hayden-hargreaves-37b2802a4/)
 [![GitHub Azpect3120](https://img.shields.io/github/followers/azpect3120?label=follow&style=social)](https://github.com/azpect3120)
 
-<br>
-
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 > 
 > "An idiot admires complexity, a genius admires simplicity." - Terry A. Davis
