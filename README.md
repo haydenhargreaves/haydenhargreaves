@@ -16,7 +16,7 @@
 
 **Libraries:** HTMX, Gin, Tailwind CSS, Spring Boot
 
-**Tools of the Trade:** NixOS, Linux, Neovim, Git, ssh, Docker
+**Tools of the Trade:** NixOS, Linux, Neovim, Git, ssh, Docker, PostgreSQL
 
 
 ## Current Projects 
