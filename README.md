@@ -28,6 +28,7 @@
 - **Home Server Web Dashboard:** A dashboard to create, manage, and view web services on my home server.
 - **Home Server Email Report:** Generate a report and send it to the owner of the home server containing status and other useful information.
 - **Home Server File Manager:** Upload, download and delete files from the shared drives on the server from anywhere using a web GUI.
+- **Mutable String Class:** Create a mutable string class in python using Object-Oriented-Programming.
 
 
 ## Github Stats
