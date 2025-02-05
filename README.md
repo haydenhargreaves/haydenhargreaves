@@ -12,7 +12,7 @@
 
 
 ## Skills
-**Languages:** Go, Lua, Python, Java, Zig, Typescript, SQL, HTML, CSS 
+**Languages:** Go, Lua, Python, Java, C/C++, Zig, Typescript, SQL, HTML, CSS 
 
 **Libraries:** HTMX, Gin, Tailwind CSS, Spring Boot
 
