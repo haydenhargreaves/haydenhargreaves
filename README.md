@@ -29,6 +29,7 @@
 - **Home Server Email Report:** Generate a report and send it to the owner of the home server containing status and other useful information.
 - **Home Server File Manager:** Upload, download and delete files from the shared drives on the server from anywhere using a web GUI.
 - **Mutable String Class:** Create a mutable string class in python using Object-Oriented-Programming.
+- **Home Server Pub/Sub Event Loop:** A systemd that listens for server events and publishes them to clients that subscribe.
 
 
 ## Github Stats
