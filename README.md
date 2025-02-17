@@ -30,6 +30,7 @@
 - **Home Server File Manager:** Upload, download and delete files from the shared drives on the server from anywhere using a web GUI.
 - **Mutable String Class:** Create a mutable string class in python using Object-Oriented-Programming.
 - **Home Server Pub/Sub Event Loop:** A systemd that listens for server events and publishes them to clients that subscribe.
+- **Automa Simulation**: [Video Reference](https://youtu.be/nr8biZfSZ3Y?si=kS962MMGRwKCgJ3Y&t=436)
 
 
 ## Github Stats
