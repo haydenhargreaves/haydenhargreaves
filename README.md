@@ -20,8 +20,8 @@
 
 
 ## Current Projects 
+- **Home Server Pub/Sub Event Loop:** A systemd that listens for server events and publishes them to clients that subscribe.
 - **[ERAU IoT Web](https://github.com/Azpect3120/InternetOfThings)**: Working with [Professor Seth McNeil](https://github.com/semcneil) to create an Internet of Things web all across the [Embry-Riddle](https://erau.edu) Prescott Campus.
-- **[Stock Trading Bot](https://github.com/Azpect3120/TradingBot)**: A bot that can find strong stocks to trade.
 
 
 ## Project Ideas
@@ -29,8 +29,8 @@
 - **Home Server Email Report:** Generate a report and send it to the owner of the home server containing status and other useful information.
 - **Home Server File Manager:** Upload, download and delete files from the shared drives on the server from anywhere using a web GUI.
 - **Mutable String Class:** Create a mutable string class in python using Object-Oriented-Programming.
-- **Home Server Pub/Sub Event Loop:** A systemd that listens for server events and publishes them to clients that subscribe.
-- **Automa Simulation**: [Video Reference](https://youtu.be/nr8biZfSZ3Y?si=kS962MMGRwKCgJ3Y&t=436)
+- **Cellular Automation Simulation**: [Video Reference](https://youtu.be/nr8biZfSZ3Y?si=kS962MMGRwKCgJ3Y&t=436)
+- **Leet Code Clone**: Web application with a backend allowing users to upload and test code with defined test cases.
 
 
 ## Github Stats
