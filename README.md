@@ -31,8 +31,6 @@
 - **Mutable String Class:** Create a mutable string class in python using Object-Oriented-Programming.
 - **Cellular Automation Simulation**: [Video Reference](https://youtu.be/nr8biZfSZ3Y?si=kS962MMGRwKCgJ3Y&t=436)
 - **Leet Code Clone**: Web application with a backend allowing users to upload and test code with defined test cases.
-- **Personal Website**: A personal website with my details and project descriptions.
-
 
 ## Github Stats
 
