@@ -20,7 +20,8 @@
 
 
 ## Current Projects 
-- **[ERAU IoT Web](https://github.com/Azpect3120/InternetOfThings)**: Working with [Professor Seth McNeil](https://github.com/semcneil) to create an Internet of Things web all across the [Embry-Riddle](https://erau.edu) Prescott Campus.
+- **[Text Editor](https://github.com/Azpect3120/TextEditor):** A simple text editor that will eventually be a Vim clone written in C using Ncurses.
+- **[ERAU IoT Web](https://github.com/Azpect3120/InternetOfThings):** Working with [Professor Seth McNeil](https://github.com/semcneil) to create an Internet of Things web all across the [Embry-Riddle](https://erau.edu) Prescott Campus.
 - **Home Server File Manager:** Upload, download and delete files from the shared drives on the server from anywhere using a web GUI.
 
 
