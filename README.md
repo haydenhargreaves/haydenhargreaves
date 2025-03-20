@@ -12,11 +12,11 @@
 
 
 ## Skills
-**Languages:** Go, Lua, Python, Java, C/C++, Zig, Typescript, SQL, HTML, CSS 
+**Languages:** Go, Lua, Python, C#, C/C++, Java, Zig, Typescript, SQL, HTML, CSS 
 
-**Libraries:** HTMX, Gin, Tailwind CSS, Spring Boot
+**Libraries:** HTMX, Gin, Tailwind CSS, Spring Boot, .NET Core
 
-**Tools of the Trade:** NixOS, Linux, Neovim, Git, ssh, Docker, PostgreSQL
+**Tools of the Trade:** NixOS, Linux, Neovim, Git, ssh, Docker, PostgreSQL, SQL Server
 
 
 ## Current Projects 
