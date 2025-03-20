@@ -22,7 +22,7 @@
 ## Current Projects 
 - **[Text Editor](https://github.com/Azpect3120/TextEditor):** A simple text editor that will eventually be a Vim clone written in C using Ncurses.
 - **[ERAU IoT Web](https://github.com/Azpect3120/InternetOfThings):** Working with [Professor Seth McNeil](https://github.com/semcneil) to create an Internet of Things web all across the [Embry-Riddle](https://erau.edu) Prescott Campus.
-- **Home Server File Manager:** Upload, download and delete files from the shared drives on the server from anywhere using a web GUI.
+- **[Home Server File Manager](https://github.com/Azpect3120/ServerFileManager):** Upload, download and delete files from the shared drives on the server from anywhere using a web GUI.
 
 
 ## Project Ideas
@@ -33,9 +33,7 @@
 - **Recipe Book Web App**: A recipe book that allows users to upload, view, and share their favorite recipes.
 
 ## Projects I Abandoned 
-- **Home Server Pub/Sub Event Loop:** A systemd that listens for server events and publishes them to clients that subscribe.
-- **Cellular Automation Simulation**: [Video Reference](https://youtu.be/nr8biZfSZ3Y?si=kS962MMGRwKCgJ3Y&t=436)
-
+- **[Home Server Pub/Sub Event Loop](https://github.com/Azpect3120/TCPNotificationManager):** A systemd that listens for server events and publishes them to clients that subscribe.
 
 
 ## Github Stats
