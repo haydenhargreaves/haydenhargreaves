@@ -4,7 +4,7 @@
 
 [![X: azpect_3120](https://img.shields.io/twitter/follow/azpect_3120?style=social)](https://x.com/azpect_3120)
 [![Linkedin: Hayden Hargreaves](https://img.shields.io/badge/-Hayden%20Hargreaves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hayden-hargreaves-37b2802a4/)](https://www.linkedin.com/in/hayden-hargreaves-37b2802a4/)
-[![GitHub Azpect3120](https://img.shields.io/github/followers/azpect3120?label=follow&style=social)](https://github.com/azpect3120)
+[![GitHub haydenhargreaves](https://img.shields.io/github/followers/haydenhargreaves?label=follow&style=social)](https://github.com/haydenhargreaves)
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 > 
@@ -20,9 +20,9 @@
 
 
 ## Current Projects 
-- **[Text Editor](https://github.com/Azpect3120/TextEditor):** A simple text editor that will eventually be a Vim clone written in C using Ncurses.
-- **[ERAU IoT Web](https://github.com/Azpect3120/InternetOfThings):** Working with [Professor Seth McNeil](https://github.com/semcneil) to create an Internet of Things web all across the [Embry-Riddle](https://erau.edu) Prescott Campus.
-- **[Home Server File Manager](https://github.com/Azpect3120/ServerFileManager):** Upload, download and delete files from the shared drives on the server from anywhere using a web GUI.
+- **[Text Editor](https://github.com/haydenhargreaves/TextEditor):** A simple text editor that will eventually be a Vim clone written in C using Ncurses.
+- **[ERAU IoT Web](https://github.com/haydenhargreaves/InternetOfThings):** Working with [Professor Seth McNeil](https://github.com/semcneil) to create an Internet of Things web all across the [Embry-Riddle](https://erau.edu) Prescott Campus.
+- **[Home Server File Manager](https://github.com/haydenhargreaves/ServerFileManager):** Upload, download and delete files from the shared drives on the server from anywhere using a web GUI.
 
 
 ## Project Ideas
@@ -33,7 +33,7 @@
 - **Recipe Book Web App**: A recipe book that allows users to upload, view, and share their favorite recipes.
 
 ## Projects I Abandoned 
-- **[Home Server Pub/Sub Event Loop](https://github.com/Azpect3120/TCPNotificationManager):** A systemd that listens for server events and publishes them to clients that subscribe.
+- **[Home Server Pub/Sub Event Loop](https://github.com/haydenhargreaves/TCPNotificationManager):** A systemd that listens for server events and publishes them to clients that subscribe.
 
 
 ## Github Stats
