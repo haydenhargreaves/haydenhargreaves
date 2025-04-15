@@ -1,4 +1,4 @@
-![Hayden Hargreaves](https://github.com/Azpect3120/Azpect3120/blob/master/download.png?raw=true)
+![Hayden Hargreaves](./assets/github-header-image.png)
 
 <hr>
 
