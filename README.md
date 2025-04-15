@@ -12,16 +12,16 @@
 
 
 ## Skills
-**Languages:** Go, Lua, Python, C#, C/C++, Java, Zig, Typescript, SQL, HTML, CSS 
+**Languages:** Go, Python, C#, C/C++, Odin, Java, Typescript, SQL, HTML, CSS, Lua, Zig
 
-**Libraries:** HTMX, Gin, Tailwind CSS, Spring Boot, .NET Core
+**Libraries:** HTMX, Gin, Tailwind CSS, Spring Boot, .NET Core, Entity Framework
 
 **Tools of the Trade:** NixOS, Linux, Neovim, Git, ssh, Docker, PostgreSQL, SQL Server
 
 
 ## Current Projects 
 - **[Text Editor](https://github.com/haydenhargreaves/TextEditor):** A simple text editor that will eventually be a Vim clone written in C using Ncurses.
-- **[ERAU IoT Web](https://github.com/haydenhargreaves/InternetOfThings):** Working with [Professor Seth McNeil](https://github.com/semcneil) to create an Internet of Things web all across the [Embry-Riddle](https://erau.edu) Prescott Campus.
+- **[ERAU IoT Web](https://github.com/haydenhargreaves/InternetOfThings):** Working with a team at ERAU to create an Internet of Things web all across the [Embry-Riddle](https://erau.edu) Prescott Campus.
 - **[Home Server File Manager](https://github.com/haydenhargreaves/ServerFileManager):** Upload, download and delete files from the shared drives on the server from anywhere using a web GUI.
 
 
