@@ -19,8 +19,6 @@
 
 
 ## Current Projects 
-- **[Text Editor](https://github.com/haydenhargreaves/TextEditor):** A simple text editor that will eventually be a Vim clone written in C using Ncurses.
-- **[ERAU IoT Web](https://github.com/haydenhargreaves/InternetOfThings):** Working with a team at ERAU to create an Internet of Things web all across the [Embry-Riddle](https://erau.edu) Prescott Campus.
 - **[Home Server File Manager](https://github.com/haydenhargreaves/ServerFileManager):** Upload, download and delete files from the shared drives on the server from anywhere using a web GUI.
 
 
@@ -33,6 +31,8 @@
 
 ## Projects I Abandoned 
 - **[Home Server Pub/Sub Event Loop](https://github.com/haydenhargreaves/TCPNotificationManager):** A systemd that listens for server events and publishes them to clients that subscribe.
+- **[Text Editor](https://github.com/haydenhargreaves/TextEditor):** A simple text editor that will eventually be a Vim clone written in C using Ncurses.
+
 
 
 ## Github Stats
