@@ -20,14 +20,13 @@
 
 ## Current Projects 
 - **[Home Server File Manager](https://github.com/haydenhargreaves/ServerFileManager):** Upload, download and delete files from the shared drives on the server from anywhere using a web GUI.
+- **Recipe Book Web App**: A recipe book that allows users to upload, view, and share their favorite recipes.
 
 
 ## Project Ideas
-- **Home Server Web Dashboard:** A dashboard to create, manage, and view web services on my home server.
 - **Home Server Email Report:** Generate a report and send it to the owner of the home server containing status and other useful information.
 - **Mutable String Class:** Create a mutable string class in python using Object-Oriented-Programming.
 - **Leet Code Clone**: Web application with a backend allowing users to upload and test code with defined test cases.
-- **Recipe Book Web App**: A recipe book that allows users to upload, view, and share their favorite recipes.
 
 ## Projects I Abandoned 
 - **[Home Server Pub/Sub Event Loop](https://github.com/haydenhargreaves/TCPNotificationManager):** A systemd that listens for server events and publishes them to clients that subscribe.
