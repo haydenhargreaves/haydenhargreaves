@@ -15,7 +15,7 @@
 
 **Libraries:** HTMX, Gin, Tailwind CSS, Spring Boot, .NET Core, Entity Framework
 
-**Tools of the Trade:** NixOS, Linux, Neovim, Git, ssh, Docker, PostgreSQL, SQL Server
+**Tools of the Trade:** NixOS, Linux, Neovim, Git, ssh, Docker, PostgreSQL, SQL Server. Ansible
 
 
 ## Current Projects 
