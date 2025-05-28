@@ -11,11 +11,11 @@
 > "An idiot admires complexity, a genius admires simplicity." - Terry A. Davis
 
 ## Skills
-**Languages:** Go, Python, C#, C/C++, Odin, Java, Typescript, SQL, HTML, CSS, Lua, Zig
+**Languages:** Go, Python, C#, C/C++, Elixir, Java, Typescript, SQL, HTML, CSS, Lua, Zig
 
-**Libraries:** HTMX, Gin, Tailwind CSS, Spring Boot, .NET Core, Entity Framework
+**Libraries:** HTMX, Gin, Tailwind CSS, Spring Boot, .NET Core, Entity Framework, Phoenix
 
-**Tools of the Trade:** NixOS, Linux, Neovim, Git, ssh, Docker, PostgreSQL, SQL Server. Ansible
+**Tools of the Trade:** NixOS, Linux, Neovim, Git, ssh, Docker, PostgreSQL, SQL Server, Ansible
 
 
 ## Current Projects 
