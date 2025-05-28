@@ -8,7 +8,7 @@
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 > 
-> "An idiot admires complexity, a genius admires simplicity." - Terry A. Davis
+> "An idiot admires complexity, a genius admires simplicity." – Terry A. Davis
 
 ## Skills
 **Languages:** Go, Python, C#, C/C++, Elixir, Java, Typescript, SQL, HTML, CSS, Lua, Zig
