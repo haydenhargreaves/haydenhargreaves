@@ -19,7 +19,7 @@
 
 
 ## Current Projects 
-- **[Home Server File Manager](https://github.com/haydenhargreaves/ServerFileManager):** Upload, download and delete files from the shared drives on the server from anywhere using a web GUI.
+- **Text Editor:** Another attempt at building a Vim-like text editor. Using Go and Charms Bubbletea this time.
 - **Recipe Book Web App**: A recipe book that allows users to upload, view, and share their favorite recipes.
 
 
