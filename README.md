@@ -11,9 +11,9 @@
 > "An idiot admires complexity, a genius admires simplicity." – Terry A. Davis
 
 ## Skills
-**Languages:** Go, Python, C#, C/C++, Elixir, Java, Typescript, SQL, HTML, CSS, Lua, Zig
+**Languages:** Go, Python, C#, TypeScript, SQL, HTML, CSS, Zig
 
-**Libraries:** HTMX, Gin, Tailwind CSS, Spring Boot, .NET Core, Entity Framework, Phoenix
+**Libraries:** React, Gin, Tailwind CSS, HTMX, .NET Core, Entity Framework 
 
 **Tools of the Trade:** NixOS, Linux, Neovim, Git, ssh, Docker, PostgreSQL, SQL Server, Ansible
 
@@ -27,11 +27,6 @@
 - **Home Server Email Report:** Generate a report and send it to the owner of the home server containing status and other useful information.
 - **Mutable String Class:** Create a mutable string class in python using Object-Oriented-Programming.
 - **Leet Code Clone**: Web application with a backend allowing users to upload and test code with defined test cases.
-
-## Projects I Abandoned 
-- **[Home Server Pub/Sub Event Loop](https://github.com/haydenhargreaves/TCPNotificationManager):** A systemd that listens for server events and publishes them to clients that subscribe.
-- **[Text Editor](https://github.com/haydenhargreaves/TextEditor):** A simple text editor that will eventually be a Vim clone written in C using Ncurses.
-
 
 
 ## Github Stats
