@@ -10,6 +10,10 @@
 > 
 > "An idiot admires complexity, a genius admires simplicity." – Terry A. Davis
 
+# Github Migration
+
+Due to rapid declines in GitHub's functionality and privacy concerns, I've moved my version control and project hosting to my own servers. My public profile and repositories can be found here on my [Gitea Server](https://git.gophernest.net/azpect)
+
 ## Skills
 **Languages:** Go, C#, Python, C/C++, JavaScript/TypeScript, SQL
 
